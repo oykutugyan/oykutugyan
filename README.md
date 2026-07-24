@@ -1,72 +1,35 @@
-# Hi there, I'm Öykü! 👋
+## Hi there, I'm Öykü! 👋
 
-## About
+<p align = "center">
+  <b> 💻 Machine Learning Intern @ InnoPark </b> <br>
+  <b> 🎓 Artificial Intelligence Engineering Senior @ Hacettepe University </b> <br>
+  <b> ❤️ Passionate about AI, ML, Data Science, NLP, xAI, and Recommendation Systems </b> <br>
+</p>
 
-I’m Öykü, a fourth-year **Artificial Intelligence Engineering** student at Hacettepe University. I've always been driven by constant self-improvement, and I guide my work ethic with this mindset.
-My academic journey has led me to specialize in AI/ML, with a deep interest in Data Science and NLP. I have developed several projects in the areas of Big Data, recommendation systems, and xAI.
-I am eagerly looking forward to applying my knowledge to innovative projects and gaining new professional experiences where I can contribute to meaningful engineering solutions.
-
----
-
-## Experience
-
-### ✈️ Innopark Uçak Yazılım Danışmanlık Tic. Ltd. Şti. (July 2026 - Present)
-- Intern
-
-• *Currently working.*
-
-### 💻 Siberkon Bilişim Dan. Hiz. Ltd. Şti. (August 2025 - September 2025)
-- Backend Developer Intern
-
-• Designed and optimized relational databases using MySQL.
-
-• Developed server-side application logic using PHP to ensure data flow.
-
-• Collaborated with the development team to debug complex features and maintain code quality.
+<p align = "center">
+  <a href = "https://www.linkedin.com/in/oykutugyan"><img src="https://img.shields.io/badge/LinkedIn-FFE3D8?style=for-the-badge" /></a>
+  <a href = "https://medium.com/@oykutugyan2004"><img src="https://img.shields.io/badge/Medium-FFE3D8?style=for-the-badge" /></a>
+</p>
 
 ---
 
-## Education
+### 🛠️ Tech Stack & Tools
 
-### 🎓 Hacettepe University (2022 - 2027)
-- B.Sc. in Artificial Intelligence Engineering
-- **GPA**: 3.11 / 4.00
-  
-• Specialized in Artificial Intelligence Engineering with a focus on Data Science, Machine Learning, Natural Language Processing with their practicums.
+![Python](https://img.shields.io/badge/Python-FFCDBC?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-FFCDBC?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-FFCDBC?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-FFCDBC?style=for-the-badge)
 
-• Designed and implemented projects on Data Structures, Algorithms, and Computer Vision.
-
-### 🏫 Özel Meram Diltaş Anadolu Lisesi (2018 - 2022)
-- Science Track
-- **Grade**: 99.54 / 100
-
-• Involved in some creative video projects. 
+![PyTorch](https://img.shields.io/badge/PyTorch-FFAF9B?style=for-the-badge)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-FFAF9B?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-FFAF9B?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-FFAF9B?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-FFAF9B?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFAF9B?style=for-the-badge)
 
 ---
 
-##  Top Projects
-
-### 🎬 How Does Netflix Recommend Movies When It Doesn’t Know You? The ‘Cold Start’ Problem in Recommendation Systems
-
-• Authored a comprehensive Medium article exploring recommendation system architectures.
-
-• Analyzed solutions to the Cold Start problem using collaborative filtering, matrix factorization, and content-based recommendation algorithms.
-
-### 🏦 ING Hubs Türkiye Datathon
-
-• Collaborated on an AI-driven solution to solve complex banking challenges using predictive analytics.
-
-• Engineered a Python-based model to optimize customer churn prediction.
-
----
-
-## Languages
-
-### 🇹🇷 Turkish 
-- Native
-
-### 🇬🇧 English 
-- Professional working proficiency 
-
-### 🇫🇷 French 
-- Beginner
+### 👩🏻‍💻 Currently Working
+- 📌 **Internship:** Developing & evaluating ML models as a **Machine Learning Intern** at **InnoPark**.
+- 🔒 **Side Projects:** Building new AI/ML applications behind the scenes *(Stay tuned for upcoming repos!)*.
+- 🔗 **Strengthening Foundations:** Deepening core CS & AI theory while refactoring previous engineering projects.
